@@ -1,0 +1,61 @@
+{
+  "projeto": {
+    "nome": "Pipeline de Ingestão de Arquivos",
+    "objetivo": "Testar leitura e tratamento de JSON para posterior uso em RAG",
+    "linguagem": "Python"
+  },
+  "documentos": [
+    {
+      "id": 1,
+      "arquivo": "relatorio_2026.pdf",
+      "formato": "PDF",
+      "categoria": "documento",
+      "processado": true,
+      "paginas": 12,
+      "metadados": {
+        "tipo_conteudo": "texto digital",
+        "possui_imagem": true,
+        "possui_tabela": true
+      }
+    },
+    {
+      "id": 2,
+      "arquivo": "contrato_escaneado.pdf",
+      "formato": "PDF",
+      "categoria": "documento",
+      "processado": true,
+      "paginas": 5,
+      "metadados": {
+        "tipo_conteudo": "escaneado",
+        "ocr_necessario": true,
+        "possui_tabela": false
+      }
+    },
+    {
+      "id": 3,
+      "arquivo": "cartaz_rag_docling.jpg",
+      "formato": "JPG",
+      "categoria": "imagem",
+      "processado": false,
+      "metadados": {
+        "ocr_necessario": true,
+        "tema": "RAG, Docling e Markdown"
+      }
+    }
+  ],
+  "configuracao": {
+    "saida_documentos": "markdown",
+    "chunk_size": 1000,
+    "chunk_overlap": 150,
+    "usar_ocr": true,
+    "preservar_metadados": true
+  },
+  "tags": [
+    "Docling",
+    "RAG",
+    "Markdown",
+    "Python",
+    "OCR"
+  ],
+  "observacao": null
+}

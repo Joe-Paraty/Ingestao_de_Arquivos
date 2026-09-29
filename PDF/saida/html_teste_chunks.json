@@ -1,0 +1,450 @@
+[
+    {
+        "page_content": "Documento HTML de Teste - Docling\n**Objetivo:**\ntestar a ingestão de HTML e sua transformação em conteúdo estruturado.",
+        "metadata": {
+            "source": "entrada\\html_teste.html",
+            "dl_meta": {
+                "schema_name": "docling_core.transforms.chunker.DocMeta",
+                "version": "1.0.0",
+                "doc_items": [
+                    {
+                        "self_ref": "#/texts/3",
+                        "parent": {
+                            "$ref": "#/groups/0"
+                        },
+                        "children": [],
+                        "content_layer": "body",
+                        "label": "text",
+                        "prov": []
+                    },
+                    {
+                        "self_ref": "#/texts/4",
+                        "parent": {
+                            "$ref": "#/groups/0"
+                        },
+                        "children": [],
+                        "content_layer": "body",
+                        "label": "text",
+                        "prov": []
+                    }
+                ],
+                "headings": [
+                    "Documento HTML de Teste - Docling"
+                ],
+                "origin": {
+                    "mimetype": "text/html",
+                    "binary_hash": 17845601720708889988,
+                    "filename": "html_teste.html"
+                }
+            }
+        }
+    },
+    {
+        "page_content": "Documento HTML de Teste - Docling\n1. Conteúdo textual\nEste arquivo contém elementos típicos de uma página HTML: títulos, parágrafos,\n**texto em negrito**\n,\n*texto em itálico*\n, listas, tabela, link e bloco de código.",
+        "metadata": {
+            "source": "entrada\\html_teste.html",
+            "dl_meta": {
+                "schema_name": "docling_core.transforms.chunker.DocMeta",
+                "version": "1.0.0",
+                "doc_items": [
+                    {
+                        "self_ref": "#/texts/6",
+                        "parent": {
+                            "$ref": "#/groups/1"
+                        },
+                        "children": [],
+                        "content_layer": "body",
+                        "label": "text",
+                        "prov": []
+                    },
+                    {
+                        "self_ref": "#/texts/7",
+                        "parent": {
+                            "$ref": "#/groups/1"
+                        },
+                        "children": [],
+                        "content_layer": "body",
+                        "label": "text",
+                        "prov": []
+                    },
+                    {
+                        "self_ref": "#/texts/8",
+                        "parent": {
+                            "$ref": "#/groups/1"
+                        },
+                        "children": [],
+                        "content_layer": "body",
+                        "label": "text",
+                        "prov": []
+                    },
+                    {
+                        "self_ref": "#/texts/9",
+                        "parent": {
+                            "$ref": "#/groups/1"
+                        },
+                        "children": [],
+                        "content_layer": "body",
+                        "label": "text",
+                        "prov": []
+                    },
+                    {
+                        "self_ref": "#/texts/10",
+                        "parent": {
+                            "$ref": "#/groups/1"
+                        },
+                        "children": [],
+                        "content_layer": "body",
+                        "label": "text",
+                        "prov": []
+                    }
+                ],
+                "headings": [
+                    "Documento HTML de Teste - Docling",
+                    "1. Conteúdo textual"
+                ],
+                "origin": {
+                    "mimetype": "text/html",
+                    "binary_hash": 17845601720708889988,
+                    "filename": "html_teste.html"
+                }
+            }
+        }
+    },
+    {
+        "page_content": "Documento HTML de Teste - Docling\n2. Elementos para reconhecimento\n- Títulos H1, H2 e H3\n- Parágrafos\n- Lista não ordenada\n- Lista numerada\n- Tabela HTML nativa\n- Hiperlink\n- Bloco de código",
+        "metadata": {
+            "source": "entrada\\html_teste.html",
+            "dl_meta": {
+                "schema_name": "docling_core.transforms.chunker.DocMeta",
+                "version": "1.0.0",
+                "doc_items": [
+                    {
+                        "self_ref": "#/texts/12",
+                        "parent": {
+                            "$ref": "#/groups/2"
+                        },
+                        "children": [],
+                        "content_layer": "body",
+                        "label": "list_item",
+                        "prov": []
+                    },
+                    {
+                        "self_ref": "#/texts/13",
+                        "parent": {
+                            "$ref": "#/groups/2"
+                        },
+                        "children": [],
+                        "content_layer": "body",
+                        "label": "list_item",
+                        "prov": []
+                    },
+                    {
+                        "self_ref": "#/texts/14",
+                        "parent": {
+                            "$ref": "#/groups/2"
+                        },
+                        "children": [],
+                        "content_layer": "body",
+                        "label": "list_item",
+                        "prov": []
+                    },
+                    {
+                        "self_ref": "#/texts/15",
+                        "parent": {
+                            "$ref": "#/groups/2"
+                        },
+                        "children": [],
+                        "content_layer": "body",
+                        "label": "list_item",
+                        "prov": []
+                    },
+                    {
+                        "self_ref": "#/texts/16",
+                        "parent": {
+                            "$ref": "#/groups/2"
+                        },
+                        "children": [],
+                        "content_layer": "body",
+                        "label": "list_item",
+                        "prov": []
+                    },
+                    {
+                        "self_ref": "#/texts/17",
+                        "parent": {
+                            "$ref": "#/groups/2"
+                        },
+                        "children": [],
+                        "content_layer": "body",
+                        "label": "list_item",
+                        "prov": []
+                    },
+                    {
+                        "self_ref": "#/texts/18",
+                        "parent": {
+                            "$ref": "#/groups/2"
+                        },
+                        "children": [],
+                        "content_layer": "body",
+                        "label": "list_item",
+                        "prov": []
+                    }
+                ],
+                "headings": [
+                    "Documento HTML de Teste - Docling",
+                    "2. Elementos para reconhecimento"
+                ],
+                "origin": {
+                    "mimetype": "text/html",
+                    "binary_hash": 17845601720708889988,
+                    "filename": "html_teste.html"
+                }
+            }
+        }
+    },
+    {
+        "page_content": "Documento HTML de Teste - Docling\n3. Tabela de teste\nPDF, Categoria = Documento. PDF, Tratamento = Parse / OCR. PDF, Saída esperada = Markdown. DOCX, Categoria = Documento. DOCX, Tratamento = Estrutura nativa. DOCX, Saída esperada = Markdown. PNG / JPG, Categoria = Imagem. PNG / JPG, Tratamento = OCR. PNG / JPG, Saída esperada = Markdown. HTML, Categoria = Documento Web. HTML, Tratamento = DOM / estrutura. HTML, Saída esperada = Markdown",
+        "metadata": {
+            "source": "entrada\\html_teste.html",
+            "dl_meta": {
+                "schema_name": "docling_core.transforms.chunker.DocMeta",
+                "version": "1.0.0",
+                "doc_items": [
+                    {
+                        "self_ref": "#/tables/0",
+                        "parent": {
+                            "$ref": "#/texts/19"
+                        },
+                        "children": [],
+                        "content_layer": "body",
+                        "label": "table",
+                        "prov": []
+                    }
+                ],
+                "headings": [
+                    "Documento HTML de Teste - Docling",
+                    "3. Tabela de teste"
+                ],
+                "origin": {
+                    "mimetype": "text/html",
+                    "binary_hash": 17845601720708889988,
+                    "filename": "html_teste.html"
+                }
+            }
+        }
+    },
+    {
+        "page_content": "Documento HTML de Teste - Docling\n4. Exemplo de pipeline\n1. Identificar a extensão do arquivo.\n2. Encaminhar o arquivo para o processador apropriado.\n3. Extrair texto e estrutura.\n4. Converter o resultado para Markdown.\n5. Preparar chunks para embeddings e RAG.",
+        "metadata": {
+            "source": "entrada\\html_teste.html",
+            "dl_meta": {
+                "schema_name": "docling_core.transforms.chunker.DocMeta",
+                "version": "1.0.0",
+                "doc_items": [
+                    {
+                        "self_ref": "#/texts/21",
+                        "parent": {
+                            "$ref": "#/groups/3"
+                        },
+                        "children": [],
+                        "content_layer": "body",
+                        "label": "list_item",
+                        "prov": []
+                    },
+                    {
+                        "self_ref": "#/texts/22",
+                        "parent": {
+                            "$ref": "#/groups/3"
+                        },
+                        "children": [],
+                        "content_layer": "body",
+                        "label": "list_item",
+                        "prov": []
+                    },
+                    {
+                        "self_ref": "#/texts/23",
+                        "parent": {
+                            "$ref": "#/groups/3"
+                        },
+                        "children": [],
+                        "content_layer": "body",
+                        "label": "list_item",
+                        "prov": []
+                    },
+                    {
+                        "self_ref": "#/texts/24",
+                        "parent": {
+                            "$ref": "#/groups/3"
+                        },
+                        "children": [],
+                        "content_layer": "body",
+                        "label": "list_item",
+                        "prov": []
+                    },
+                    {
+                        "self_ref": "#/texts/25",
+                        "parent": {
+                            "$ref": "#/groups/3"
+                        },
+                        "children": [],
+                        "content_layer": "body",
+                        "label": "list_item",
+                        "prov": []
+                    }
+                ],
+                "headings": [
+                    "Documento HTML de Teste - Docling",
+                    "4. Exemplo de pipeline"
+                ],
+                "origin": {
+                    "mimetype": "text/html",
+                    "binary_hash": 17845601720708889988,
+                    "filename": "html_teste.html"
+                }
+            }
+        }
+    },
+    {
+        "page_content": "Documento HTML de Teste - Docling\n4. Exemplo de pipeline\nRAG + Docling\nO Markdown pode funcionar como uma representação intermediária entre a extração documental e as etapas de\n**chunking, embeddings, armazenamento vetorial e recuperação semântica**\n.",
+        "metadata": {
+            "source": "entrada\\html_teste.html",
+            "dl_meta": {
+                "schema_name": "docling_core.transforms.chunker.DocMeta",
+                "version": "1.0.0",
+                "doc_items": [
+                    {
+                        "self_ref": "#/texts/27",
+                        "parent": {
+                            "$ref": "#/groups/4"
+                        },
+                        "children": [],
+                        "content_layer": "body",
+                        "label": "text",
+                        "prov": []
+                    },
+                    {
+                        "self_ref": "#/texts/28",
+                        "parent": {
+                            "$ref": "#/groups/4"
+                        },
+                        "children": [],
+                        "content_layer": "body",
+                        "label": "text",
+                        "prov": []
+                    },
+                    {
+                        "self_ref": "#/texts/29",
+                        "parent": {
+                            "$ref": "#/groups/4"
+                        },
+                        "children": [],
+                        "content_layer": "body",
+                        "label": "text",
+                        "prov": []
+                    }
+                ],
+                "headings": [
+                    "Documento HTML de Teste - Docling",
+                    "4. Exemplo de pipeline",
+                    "RAG + Docling"
+                ],
+                "origin": {
+                    "mimetype": "text/html",
+                    "binary_hash": 17845601720708889988,
+                    "filename": "html_teste.html"
+                }
+            }
+        }
+    },
+    {
+        "page_content": "Documento HTML de Teste - Docling\n5. Código de exemplo\n```\narquivo = \"documento.html\"\nextensao = \".html\"\n\nif extensao == \".html\":\n    print(\"Processar documento HTML\")\n```",
+        "metadata": {
+            "source": "entrada\\html_teste.html",
+            "dl_meta": {
+                "schema_name": "docling_core.transforms.chunker.DocMeta",
+                "version": "1.0.0",
+                "doc_items": [
+                    {
+                        "self_ref": "#/texts/31",
+                        "parent": {
+                            "$ref": "#/texts/30"
+                        },
+                        "children": [],
+                        "content_layer": "body",
+                        "label": "code",
+                        "prov": []
+                    }
+                ],
+                "headings": [
+                    "Documento HTML de Teste - Docling",
+                    "5. Código de exemplo"
+                ],
+                "origin": {
+                    "mimetype": "text/html",
+                    "binary_hash": 17845601720708889988,
+                    "filename": "html_teste.html"
+                }
+            }
+        }
+    },
+    {
+        "page_content": "Documento HTML de Teste - Docling\n6. Link de teste\nEste é um\n[link para o projeto Docling](https://github.com/DS4SD/docling)\nincluído para verificar como hyperlinks são representados após a conversão.\nFim do documento HTML de teste.",
+        "metadata": {
+            "source": "entrada\\html_teste.html",
+            "dl_meta": {
+                "schema_name": "docling_core.transforms.chunker.DocMeta",
+                "version": "1.0.0",
+                "doc_items": [
+                    {
+                        "self_ref": "#/texts/33",
+                        "parent": {
+                            "$ref": "#/groups/5"
+                        },
+                        "children": [],
+                        "content_layer": "body",
+                        "label": "text",
+                        "prov": []
+                    },
+                    {
+                        "self_ref": "#/texts/34",
+                        "parent": {
+                            "$ref": "#/groups/5"
+                        },
+                        "children": [],
+                        "content_layer": "body",
+                        "label": "text",
+                        "prov": []
+                    },
+                    {
+                        "self_ref": "#/texts/35",
+                        "parent": {
+                            "$ref": "#/groups/5"
+                        },
+                        "children": [],
+                        "content_layer": "body",
+                        "label": "text",
+                        "prov": []
+                    },
+                    {
+                        "self_ref": "#/texts/36",
+                        "parent": {
+                            "$ref": "#/texts/32"
+                        },
+                        "children": [],
+                        "content_layer": "body",
+                        "label": "text",
+                        "prov": []
+                    }
+                ],
+                "headings": [
+                    "Documento HTML de Teste - Docling",
+                    "6. Link de teste"
+                ],
+                "origin": {
+                    "mimetype": "text/html",
+                    "binary_hash": 17845601720708889988,
+                    "filename": "html_teste.html"
+                }
+            }
+        }
+    }
+]

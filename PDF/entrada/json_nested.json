@@ -1,0 +1,180 @@
+{
+  "project": {
+    "name": "RAG Ingestion Test",
+    "version": "1.0",
+    "settings": {
+      "language": "pt-BR",
+      "chunking": {
+        "strategy": "semantic",
+        "max_size": 500
+      }
+    },
+    "departments": {
+      "department_1": {
+        "name": "Department 1",
+        "manager": {
+          "id": 1,
+          "name": "Manager 1"
+        },
+        "metrics": {
+          "documents": 10,
+          "processed": 8
+        }
+      },
+      "department_2": {
+        "name": "Department 2",
+        "manager": {
+          "id": 2,
+          "name": "Manager 2"
+        },
+        "metrics": {
+          "documents": 20,
+          "processed": 16
+        }
+      },
+      "department_3": {
+        "name": "Department 3",
+        "manager": {
+          "id": 3,
+          "name": "Manager 3"
+        },
+        "metrics": {
+          "documents": 30,
+          "processed": 24
+        }
+      },
+      "department_4": {
+        "name": "Department 4",
+        "manager": {
+          "id": 4,
+          "name": "Manager 4"
+        },
+        "metrics": {
+          "documents": 40,
+          "processed": 32
+        }
+      },
+      "department_5": {
+        "name": "Department 5",
+        "manager": {
+          "id": 5,
+          "name": "Manager 5"
+        },
+        "metrics": {
+          "documents": 50,
+          "processed": 40
+        }
+      },
+      "department_6": {
+        "name": "Department 6",
+        "manager": {
+          "id": 6,
+          "name": "Manager 6"
+        },
+        "metrics": {
+          "documents": 60,
+          "processed": 48
+        }
+      },
+      "department_7": {
+        "name": "Department 7",
+        "manager": {
+          "id": 7,
+          "name": "Manager 7"
+        },
+        "metrics": {
+          "documents": 70,
+          "processed": 56
+        }
+      },
+      "department_8": {
+        "name": "Department 8",
+        "manager": {
+          "id": 8,
+          "name": "Manager 8"
+        },
+        "metrics": {
+          "documents": 80,
+          "processed": 64
+        }
+      },
+      "department_9": {
+        "name": "Department 9",
+        "manager": {
+          "id": 9,
+          "name": "Manager 9"
+        },
+        "metrics": {
+          "documents": 90,
+          "processed": 72
+        }
+      },
+      "department_10": {
+        "name": "Department 10",
+        "manager": {
+          "id": 10,
+          "name": "Manager 10"
+        },
+        "metrics": {
+          "documents": 100,
+          "processed": 80
+        }
+      },
+      "department_11": {
+        "name": "Department 11",
+        "manager": {
+          "id": 11,
+          "name": "Manager 11"
+        },
+        "metrics": {
+          "documents": 110,
+          "processed": 88
+        }
+      },
+      "department_12": {
+        "name": "Department 12",
+        "manager": {
+          "id": 12,
+          "name": "Manager 12"
+        },
+        "metrics": {
+          "documents": 120,
+          "processed": 96
+        }
+      },
+      "department_13": {
+        "name": "Department 13",
+        "manager": {
+          "id": 13,
+          "name": "Manager 13"
+        },
+        "metrics": {
+          "documents": 130,
+          "processed": 104
+        }
+      },
+      "department_14": {
+        "name": "Department 14",
+        "manager": {
+          "id": 14,
+          "name": "Manager 14"
+        },
+        "metrics": {
+          "documents": 140,
+          "processed": 112
+        }
+      },
+      "department_15": {
+        "name": "Department 15",
+        "manager": {
+          "id": 15,
+          "name": "Manager 15"
+        },
+        "metrics": {
+          "documents": 150,
+          "processed": 120
+        }
+      }
+    }
+  }
+}

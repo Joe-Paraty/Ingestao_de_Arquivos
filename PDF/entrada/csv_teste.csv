@@ -1,0 +1,501 @@
+﻿id,arquivo,formato,categoria,tamanho_mb,processado,tipo_conteudo,ocr_necessario
+1,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+2,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+3,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+4,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+5,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+6,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+7,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+8,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+9,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+10,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+11,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+12,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+13,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+14,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+15,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+16,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+17,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+18,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+19,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+20,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+21,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+22,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+23,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+24,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+25,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+26,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+27,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+28,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+29,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+30,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+31,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+32,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+33,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+34,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+35,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+36,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+37,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+38,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+39,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+40,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+41,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+42,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+43,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+44,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+45,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+46,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+47,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+48,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+49,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+50,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+51,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+52,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+53,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+54,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+55,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+56,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+57,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+58,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+59,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+60,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+61,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+62,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+63,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+64,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+65,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+66,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+67,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+68,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+69,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+70,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+71,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+72,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+73,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+74,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+75,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+76,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+77,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+78,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+79,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+80,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+81,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+82,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+83,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+84,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+85,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+86,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+87,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+88,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+89,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+90,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+91,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+92,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+93,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+94,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+95,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+96,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+97,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+98,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+99,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+100,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+101,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+102,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+103,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+104,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+105,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+106,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+107,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+108,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+109,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+110,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+111,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+112,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+113,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+114,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+115,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+116,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+117,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+118,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+119,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+120,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+121,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+122,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+123,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+124,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+125,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+126,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+127,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+128,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+129,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+130,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+131,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+132,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+133,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+134,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+135,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+136,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+137,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+138,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+139,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+140,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+141,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+142,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+143,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+144,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+145,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+146,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+147,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+148,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+149,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+150,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+151,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+152,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+153,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+154,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+155,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+156,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+157,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+158,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+159,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+160,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+161,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+162,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+163,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+164,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+165,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+166,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+167,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+168,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+169,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+170,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+171,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+172,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+173,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+174,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+175,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+176,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+177,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+178,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+179,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+180,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+181,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+182,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+183,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+184,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+185,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+186,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+187,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+188,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+189,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+190,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+191,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+192,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+193,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+194,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+195,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+196,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+197,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+198,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+199,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+200,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+201,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+202,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+203,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+204,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+205,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+206,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+207,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+208,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+209,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+210,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+211,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+212,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+213,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+214,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+215,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+216,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+217,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+218,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+219,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+220,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+221,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+222,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+223,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+224,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+225,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+226,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+227,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+228,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+229,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+230,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+231,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+232,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+233,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+234,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+235,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+236,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+237,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+238,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+239,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+240,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+241,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+242,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+243,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+244,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+245,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+246,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+247,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+248,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+249,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+250,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+251,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+252,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+253,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+254,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+255,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+256,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+257,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+258,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+259,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+260,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+261,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+262,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+263,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+264,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+265,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+266,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+267,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+268,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+269,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+270,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+271,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+272,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+273,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+274,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+275,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+276,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+277,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+278,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+279,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+280,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+281,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+282,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+283,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+284,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+285,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+286,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+287,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+288,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+289,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+290,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+291,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+292,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+293,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+294,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+295,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+296,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+297,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+298,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+299,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+300,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+301,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+302,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+303,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+304,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+305,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+306,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+307,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+308,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+309,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+310,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+311,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+312,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+313,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+314,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+315,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+316,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+317,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+318,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+319,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+320,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+321,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+322,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+323,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+324,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+325,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+326,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+327,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+328,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+329,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+330,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+331,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+332,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+333,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+334,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+335,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+336,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+337,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+338,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+339,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+340,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+341,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+342,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+343,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+344,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+345,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+346,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+347,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+348,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+349,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+350,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+351,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+352,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+353,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+354,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+355,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+356,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+357,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+358,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+359,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+360,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+361,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+362,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+363,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+364,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+365,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+366,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+367,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+368,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+369,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+370,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+371,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+372,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+373,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+374,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+375,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+376,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+377,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+378,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+379,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+380,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+381,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+382,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+383,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+384,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+385,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+386,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+387,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+388,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+389,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+390,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+391,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+392,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+393,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+394,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+395,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+396,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+397,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+398,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+399,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+400,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+401,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+402,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+403,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+404,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+405,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+406,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+407,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+408,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+409,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+410,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+411,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+412,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+413,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+414,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+415,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+416,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+417,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+418,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+419,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+420,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+421,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+422,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+423,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+424,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+425,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+426,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+427,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+428,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+429,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+430,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+431,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+432,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+433,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+434,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+435,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+436,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+437,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+438,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+439,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+440,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+441,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+442,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+443,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+444,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+445,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+446,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+447,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+448,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+449,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+450,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+451,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+452,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+453,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+454,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+455,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+456,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+457,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+458,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+459,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+460,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+461,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+462,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+463,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+464,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+465,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+466,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+467,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+468,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+469,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+470,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+471,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+472,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+473,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+474,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+475,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+476,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+477,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+478,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+479,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+480,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+481,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+482,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+483,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+484,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+485,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+486,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+487,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+488,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+489,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+490,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+491,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False
+492,teste_docling.html,HTML,documento_web,0.2,True,HTML estruturado,False
+493,teste_importacao.xlsx,XLSX,tabular,0.15,False,planilha,False
+494,teste_importacao.json,JSON,estruturado,0.03,False,objeto hierárquico,False
+495,teste_importacao.xml,XML,estruturado,0.04,False,estrutura hierárquica,False
+496,relatorio_2026.pdf,PDF,documento,2.4,True,texto digital,False
+497,contrato_escaneado.pdf,PDF,documento,5.8,True,escaneado,True
+498,cartaz_rag_docling.png,PNG,imagem,3.1,True,imagem com texto,True
+499,cartaz_rag_docling.jpg,JPG,imagem,1.7,False,imagem com texto,True
+500,teste_docling.docx,DOCX,documento,0.9,True,texto estruturado,False

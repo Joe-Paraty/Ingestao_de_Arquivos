@@ -1,0 +1,242 @@
+[
+    {
+        "page_content": "PDF de Teste 1 - Texto Digital\nEste documento foi criado com texto nativo dentro do PDF. O conteúdo deve ser selecionável e extraído diretamente por bibliotecas de leitura de PDF, sem necessidade de OCR.\nObjetivo do teste: verificar se o Docling identifica corretamente títulos, parágrafos, listas e uma pequena tabela.\nExemplo de conteúdo: Python é uma linguagem amplamente utilizada em ciência de dados. Bibliotecas como pandas, NumPy e scikit-learn permitem manipulação, análise e modelagem de dados.",
+        "metadata": {
+            "source": "entrada\\pdf_digital.pdf",
+            "dl_meta": {
+                "schema_name": "docling_core.transforms.chunker.DocMeta",
+                "version": "1.0.0",
+                "doc_items": [
+                    {
+                        "self_ref": "#/texts/1",
+                        "parent": {
+                            "$ref": "#/body"
+                        },
+                        "children": [],
+                        "content_layer": "body",
+                        "label": "text",
+                        "prov": [
+                            {
+                                "page_no": 1,
+                                "bbox": {
+                                    "l": 62.69291,
+                                    "t": 730.3769,
+                                    "r": 535.6829099999999,
+                                    "b": 706.1269,
+                                    "coord_origin": "BOTTOMLEFT"
+                                },
+                                "charspan": [
+                                    0,
+                                    172
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "self_ref": "#/texts/2",
+                        "parent": {
+                            "$ref": "#/body"
+                        },
+                        "children": [],
+                        "content_layer": "body",
+                        "label": "text",
+                        "prov": [
+                            {
+                                "page_no": 1,
+                                "bbox": {
+                                    "l": 62.69291,
+                                    "t": 684.3769,
+                                    "r": 536.7529099999998,
+                                    "b": 660.1269,
+                                    "coord_origin": "BOTTOMLEFT"
+                                },
+                                "charspan": [
+                                    0,
+                                    115
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "self_ref": "#/texts/3",
+                        "parent": {
+                            "$ref": "#/body"
+                        },
+                        "children": [],
+                        "content_layer": "body",
+                        "label": "text",
+                        "prov": [
+                            {
+                                "page_no": 1,
+                                "bbox": {
+                                    "l": 62.69291,
+                                    "t": 638.3769,
+                                    "r": 531.7829100000001,
+                                    "b": 614.1269,
+                                    "coord_origin": "BOTTOMLEFT"
+                                },
+                                "charspan": [
+                                    0,
+                                    183
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "headings": [
+                    "PDF de Teste 1 - Texto Digital"
+                ],
+                "origin": {
+                    "mimetype": "application/pdf",
+                    "binary_hash": 14640214838674372394,
+                    "filename": "pdf_digital.pdf"
+                }
+            }
+        }
+    },
+    {
+        "page_content": "Itens para extração:\n1. Título principal\n2. Parágrafos de texto\n3. Lista numerada\n4. Tabela simples\nCampo, 1 = Valor. Tipo, 1 = PDF digital. OCR necessário, 1 = Não. Destino esperado, 1 = Markdown",
+        "metadata": {
+            "source": "entrada\\pdf_digital.pdf",
+            "dl_meta": {
+                "schema_name": "docling_core.transforms.chunker.DocMeta",
+                "version": "1.0.0",
+                "doc_items": [
+                    {
+                        "self_ref": "#/texts/5",
+                        "parent": {
+                            "$ref": "#/groups/0"
+                        },
+                        "children": [],
+                        "content_layer": "body",
+                        "label": "list_item",
+                        "prov": [
+                            {
+                                "page_no": 1,
+                                "bbox": {
+                                    "l": 62.69291,
+                                    "t": 569.3769,
+                                    "r": 141.05291,
+                                    "b": 560.1269,
+                                    "coord_origin": "BOTTOMLEFT"
+                                },
+                                "charspan": [
+                                    0,
+                                    19
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "self_ref": "#/texts/6",
+                        "parent": {
+                            "$ref": "#/groups/0"
+                        },
+                        "children": [],
+                        "content_layer": "body",
+                        "label": "list_item",
+                        "prov": [
+                            {
+                                "page_no": 1,
+                                "bbox": {
+                                    "l": 62.69291,
+                                    "t": 554.3769,
+                                    "r": 165.52291000000002,
+                                    "b": 545.1269,
+                                    "coord_origin": "BOTTOMLEFT"
+                                },
+                                "charspan": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "self_ref": "#/texts/7",
+                        "parent": {
+                            "$ref": "#/groups/0"
+                        },
+                        "children": [],
+                        "content_layer": "body",
+                        "label": "list_item",
+                        "prov": [
+                            {
+                                "page_no": 1,
+                                "bbox": {
+                                    "l": 62.69291,
+                                    "t": 539.3769,
+                                    "r": 142.73291,
+                                    "b": 530.1269,
+                                    "coord_origin": "BOTTOMLEFT"
+                                },
+                                "charspan": [
+                                    0,
+                                    17
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "self_ref": "#/texts/8",
+                        "parent": {
+                            "$ref": "#/groups/0"
+                        },
+                        "children": [],
+                        "content_layer": "body",
+                        "label": "list_item",
+                        "prov": [
+                            {
+                                "page_no": 1,
+                                "bbox": {
+                                    "l": 62.69291,
+                                    "t": 524.3769,
+                                    "r": 141.05291,
+                                    "b": 515.1269,
+                                    "coord_origin": "BOTTOMLEFT"
+                                },
+                                "charspan": [
+                                    0,
+                                    17
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "self_ref": "#/tables/0",
+                        "parent": {
+                            "$ref": "#/body"
+                        },
+                        "children": [],
+                        "content_layer": "body",
+                        "label": "table",
+                        "prov": [
+                            {
+                                "page_no": 1,
+                                "bbox": {
+                                    "l": 112.75473192405445,
+                                    "t": 498.81044013480505,
+                                    "r": 482.1601391447951,
+                                    "b": 426.0662694281934,
+                                    "coord_origin": "BOTTOMLEFT"
+                                },
+                                "charspan": [
+                                    0,
+                                    0
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "headings": [
+                    "Itens para extração:"
+                ],
+                "origin": {
+                    "mimetype": "application/pdf",
+                    "binary_hash": 14640214838674372394,
+                    "filename": "pdf_digital.pdf"
+                }
+            }
+        }
+    }
+]

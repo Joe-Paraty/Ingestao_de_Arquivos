@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<pipeline_ingestao versao="1.0">
+  <projeto>
+    <nome>Pipeline de Ingestão de Arquivos</nome>
+    <linguagem>Python</linguagem>
+    <objetivo>Testar leitura e tratamento de XML para uso posterior em RAG</objetivo>
+  </projeto>
+  <documentos>
+    <documento id="1">
+      <arquivo>relatorio_2026.pdf</arquivo>
+      <formato>PDF</formato>
+      <categoria>documento</categoria>
+      <processado>true</processado>
+      <metadados>
+        <tipo_conteudo>texto digital</tipo_conteudo>
+        <ocr_necessario>false</ocr_necessario>
+      </metadados>
+    </documento>
+    <documento id="2">
+      <arquivo>contrato_escaneado.pdf</arquivo>
+      <formato>PDF</formato>
+      <categoria>documento</categoria>
+      <processado>true</processado>
+      <metadados>
+        <tipo_conteudo>escaneado</tipo_conteudo>
+        <ocr_necessario>true</ocr_necessario>
+      </metadados>
+    </documento>
+    <documento id="3">
+      <arquivo>cartaz_rag_docling.jpg</arquivo>
+      <formato>JPG</formato>
+      <categoria>imagem</categoria>
+      <processado>false</processado>
+      <metadados>
+        <tipo_conteudo>imagem com texto</tipo_conteudo>
+        <ocr_necessario>true</ocr_necessario>
+      </metadados>
+    </documento>
+  </documentos>
+  <configuracao>
+    <saida_documentos>markdown</saida_documentos>
+    <chunk_size>1000</chunk_size>
+    <chunk_overlap>150</chunk_overlap>
+    <preservar_metadados>true</preservar_metadados>
+  </configuracao>
+  <tags>
+    <tag>Docling</tag>
+    <tag>RAG</tag>
+    <tag>Markdown</tag>
+    <tag>Python</tag>
+    <tag>OCR</tag>
+    <tag>XML</tag>
+  </tags>
+</pipeline_ingestao>

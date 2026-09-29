@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project>
+  <name>RAG Ingestion Test</name>
+  <version>1.0</version>
+  <settings>
+    <language>pt-BR</language>
+    <chunking>
+      <strategy>semantic</strategy>
+      <max_size>500</max_size>
+    </chunking>
+  </settings>
+  <departments>
+    <department_1>
+      <name>Department 1</name>
+      <manager>
+        <id>1</id>
+        <name>Manager 1</name>
+      </manager>
+      <metrics>
+        <documents>10</documents>
+        <processed>8</processed>
+      </metrics>
+    </department_1>
+    <department_2>
+      <name>Department 2</name>
+      <manager>
+        <id>2</id>
+        <name>Manager 2</name>
+      </manager>
+      <metrics>
+        <documents>20</documents>
+        <processed>16</processed>
+      </metrics>
+    </department_2>
+    <department_3>
+      <name>Department 3</name>
+      <manager>
+        <id>3</id>
+        <name>Manager 3</name>
+      </manager>
+      <metrics>
+        <documents>30</documents>
+        <processed>24</processed>
+      </metrics>
+    </department_3>
+    <department_4>
+      <name>Department 4</name>
+      <manager>
+        <id>4</id>
+        <name>Manager 4</name>
+      </manager>
+      <metrics>
+        <documents>40</documents>
+        <processed>32</processed>
+      </metrics>
+    </department_4>
+    <department_5>
+      <name>Department 5</name>
+      <manager>
+        <id>5</id>
+        <name>Manager 5</name>
+      </manager>
+      <metrics>
+        <documents>50</documents>
+        <processed>40</processed>
+      </metrics>
+    </department_5>
+    <department_6>
+      <name>Department 6</name>
+      <manager>
+        <id>6</id>
+        <name>Manager 6</name>
+      </manager>
+      <metrics>
+        <documents>60</documents>
+        <processed>48</processed>
+      </metrics>
+    </department_6>
+    <department_7>
+      <name>Department 7</name>
+      <manager>
+        <id>7</id>
+        <name>Manager 7</name>
+      </manager>
+      <metrics>
+        <documents>70</documents>
+        <processed>56</processed>
+      </metrics>
+    </department_7>
+    <department_8>
+      <name>Department 8</name>
+      <manager>
+        <id>8</id>
+        <name>Manager 8</name>
+      </manager>
+      <metrics>
+        <documents>80</documents>
+        <processed>64</processed>
+      </metrics>
+    </department_8>
+    <department_9>
+      <name>Department 9</name>
+      <manager>
+        <id>9</id>
+        <name>Manager 9</name>
+      </manager>
+      <metrics>
+        <documents>90</documents>
+        <processed>72</processed>
+      </metrics>
+    </department_9>
+    <department_10>
+      <name>Department 10</name>
+      <manager>
+        <id>10</id>
+        <name>Manager 10</name>
+      </manager>
+      <metrics>
+        <documents>100</documents>
+        <processed>80</processed>
+      </metrics>
+    </department_10>
+    <department_11>
+      <name>Department 11</name>
+      <manager>
+        <id>11</id>
+        <name>Manager 11</name>
+      </manager>
+      <metrics>
+        <documents>110</documents>
+        <processed>88</processed>
+      </metrics>
+    </department_11>
+    <department_12>
+      <name>Department 12</name>
+      <manager>
+        <id>12</id>
+        <name>Manager 12</name>
+      </manager>
+      <metrics>
+        <documents>120</documents>
+        <processed>96</processed>
+      </metrics>
+    </department_12>
+    <department_13>
+      <name>Department 13</name>
+      <manager>
+        <id>13</id>
+        <name>Manager 13</name>
+      </manager>
+      <metrics>
+        <documents>130</documents>
+        <processed>104</processed>
+      </metrics>
+    </department_13>
+    <department_14>
+      <name>Department 14</name>
+      <manager>
+        <id>14</id>
+        <name>Manager 14</name>
+      </manager>
+      <metrics>
+        <documents>140</documents>
+        <processed>112</processed>
+      </metrics>
+    </department_14>
+    <department_15>
+      <name>Department 15</name>
+      <manager>
+        <id>15</id>
+        <name>Manager 15</name>
+      </manager>
+      <metrics>
+        <documents>150</documents>
+        <processed>120</processed>
+      </metrics>
+    </department_15>
+  </departments>
+</project>
